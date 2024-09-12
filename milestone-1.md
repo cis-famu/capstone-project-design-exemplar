@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
-        <td colspan="3" >WIN Belize Knowledge Managment System</td>    
+        <td colspan="3" >Pet-Med</td>    
     </tr>
     <tr>
         <td colspan="2">Executive Sponsors: </td>
